@@ -2,8 +2,6 @@
 student_management_system_in_django
 
 
-<h2>Complete Video Tutorial : <a href="https://www.youtube.com/playlist?list=PLb-NlfexLTk_tUlAPj05s2zc8JgHTVkpH">Link</a></h
-
 <h2>Database Design</h2>
 
 <img src="https://github.com/hackstarsj/student_management_system_in_django/raw/master/database.png" alt="Database Design">
