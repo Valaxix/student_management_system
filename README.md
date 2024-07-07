@@ -1,19 +1,8 @@
 # student_management_system_in_django
 student_management_system_in_django
 
-<h2>After Part 10 Link <a href="https://github.com/hackstarsj/student_management_system_part_11">View</a></h2> 
 
-<h2>Complete Video Tutorial : <a href="https://www.youtube.com/playlist?list=PLb-NlfexLTk_tUlAPj05s2zc8JgHTVkpH">Link</a></h2>
-
-<h>Complete Video Course</h2>
-<div align="center" style="width:100%">
-      <a href="https://www.youtube.com/playlist?list=PLb-NlfexLTk_tUlAPj05s2zc8JgHTVkpH">
-     <img 
-      src="https://img.youtube.com/vi/y3llbdTtam4/maxresdefault.jpg" 
-      alt="Student management System" 
-      style="width:100%;">
-      </a>
-</div>
+<h2>Complete Video Tutorial : <a href="https://www.youtube.com/playlist?list=PLb-NlfexLTk_tUlAPj05s2zc8JgHTVkpH">Link</a></h
 
 <h2>Database Design</h2>
 
